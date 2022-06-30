@@ -1,0 +1,7 @@
+INFO     root:test_pytest.py:37 请求地址：http://web.juhe.cn/finance/gold/shgold
+INFO     root:test_pytest.py:38 请求参数：{'key': 'f6e597601323c72a62bddaa05ce20d80'}
+INFO     root:test_pytest.py:39 预期结果：SUCCESSED!
+INFO     root:test_pytest.py:40 --------------------正在获取请求--------------------
+INFO     root:test_pytest.py:52 -------------查询成功，响应时间：[0.296819]秒----------------
+INFO     root:test_pytest.py:53 ---------------------------------------分割线----------------------------------------
+INFO     root:test_pytest.py:25 --------------------执行完成--------------------

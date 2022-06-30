@@ -1,0 +1,64 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "数据驱动接口自动化",
+    "children" : [ {
+      "name" : "查询成功",
+      "children" : [ {
+        "name" : "test_API[https://way.jd.com/he/freeweather-{\"appkey\":\"7b95369de74f07e957c9fa01f235748f\",\"city\":\"长沙\"}-查询成功]",
+        "uid" : "677bcadb8f86da8b",
+        "parentUid" : "8257d6fa3dc6b7262e1236f4fbddf950",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654754938834,
+          "stop" : 1654754940896,
+          "duration" : 2062
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'{\"appkey\":\"7b95369de74f07e957c9fa01f235748f\",\"city\":\"长沙\"}'", "'查询成功'", "'https://way.jd.com/he/freeweather'" ]
+      }, {
+        "name" : "test_API[https://way.jd.com/he/freeweather-{\"appkey\":\"7b95369de74f07e957c9fa01f235748f\",\"city\":\"北京\"}-查询成功]",
+        "uid" : "716046939f3068d1",
+        "parentUid" : "8257d6fa3dc6b7262e1236f4fbddf950",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654754940902,
+          "stop" : 1654754941561,
+          "duration" : 659
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'{\"appkey\":\"7b95369de74f07e957c9fa01f235748f\",\"city\":\"北京\"}'", "'查询成功'", "'https://way.jd.com/he/freeweather'" ]
+      }, {
+        "name" : "test_API[http://web.juhe.cn/finance/gold/shgold-{\"key\":\"f6e597601323c72a62bddaa05ce20d80\"}-SUCCESSED!]",
+        "uid" : "1bf01c5f1b2407fa",
+        "parentUid" : "8257d6fa3dc6b7262e1236f4fbddf950",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654754941566,
+          "stop" : 1654754942036,
+          "duration" : 470
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "'{\"key\":\"f6e597601323c72a62bddaa05ce20d80\"}'", "'SUCCESSED!'", "'http://web.juhe.cn/finance/gold/shgold'" ]
+      } ],
+      "uid" : "8257d6fa3dc6b7262e1236f4fbddf950"
+    } ],
+    "uid" : "aa2349e8dc96c08b76f6cd538165baeb"
+  } ]
+}

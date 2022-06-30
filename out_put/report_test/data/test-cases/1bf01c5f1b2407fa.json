@@ -1,0 +1,121 @@
+{
+  "uid" : "1bf01c5f1b2407fa",
+  "name" : "test_API[http://web.juhe.cn/finance/gold/shgold-{\"key\":\"f6e597601323c72a62bddaa05ce20d80\"}-SUCCESSED!]",
+  "fullName" : "test_pytest.Test_demo1#test_API",
+  "historyId" : "3401aca18fc096622352f13ebf6d414f",
+  "time" : {
+    "start" : 1654754941566,
+    "stop" : 1654754942036,
+    "duration" : 470
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_class_fixture_Test_demo1",
+    "time" : {
+      "start" : 1654754938830,
+      "stop" : 1654754938832,
+      "duration" : 2
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "60ecb68e87219994",
+      "name" : "log",
+      "source" : "60ecb68e87219994.txt",
+      "type" : "text/plain",
+      "size" : 636
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_Test_demo1::0",
+    "time" : {
+      "start" : 1654754942039,
+      "stop" : 1654754942039,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "数据驱动接口自动化"
+  }, {
+    "name" : "story",
+    "value" : "查询成功"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "suite",
+    "value" : "test_pytest"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_demo1"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-RECFETE7"
+  }, {
+    "name" : "thread",
+    "value" : "5696-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "'{\"key\":\"f6e597601323c72a62bddaa05ce20d80\"}'"
+  }, {
+    "name" : "ex",
+    "value" : "'SUCCESSED!'"
+  }, {
+    "name" : "url",
+    "value" : "'http://web.juhe.cn/finance/gold/shgold'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "1bf01c5f1b2407fa.json",
+  "parameterValues" : [ "'{\"key\":\"f6e597601323c72a62bddaa05ce20d80\"}'", "'SUCCESSED!'", "'http://web.juhe.cn/finance/gold/shgold'" ]
+}

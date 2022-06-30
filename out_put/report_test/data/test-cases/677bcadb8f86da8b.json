@@ -1,0 +1,121 @@
+{
+  "uid" : "677bcadb8f86da8b",
+  "name" : "test_API[https://way.jd.com/he/freeweather-{\"appkey\":\"7b95369de74f07e957c9fa01f235748f\",\"city\":\"长沙\"}-查询成功]",
+  "fullName" : "test_pytest.Test_demo1#test_API",
+  "historyId" : "cb6e20064711fd1848cc3daa9f1cdcba",
+  "time" : {
+    "start" : 1654754938834,
+    "stop" : 1654754940896,
+    "duration" : 2062
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_class_fixture_Test_demo1",
+    "time" : {
+      "start" : 1654754938830,
+      "stop" : 1654754938832,
+      "duration" : 2
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5568f05588d2996f",
+      "name" : "log",
+      "source" : "5568f05588d2996f.txt",
+      "type" : "text/plain",
+      "size" : 648
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_Test_demo1::0",
+    "time" : {
+      "start" : 1654754942039,
+      "stop" : 1654754942039,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "数据驱动接口自动化"
+  }, {
+    "name" : "story",
+    "value" : "查询成功"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "suite",
+    "value" : "test_pytest"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_demo1"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-RECFETE7"
+  }, {
+    "name" : "thread",
+    "value" : "5696-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "'{\"appkey\":\"7b95369de74f07e957c9fa01f235748f\",\"city\":\"长沙\"}'"
+  }, {
+    "name" : "ex",
+    "value" : "'查询成功'"
+  }, {
+    "name" : "url",
+    "value" : "'https://way.jd.com/he/freeweather'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "677bcadb8f86da8b.json",
+  "parameterValues" : [ "'{\"appkey\":\"7b95369de74f07e957c9fa01f235748f\",\"city\":\"长沙\"}'", "'查询成功'", "'https://way.jd.com/he/freeweather'" ]
+}

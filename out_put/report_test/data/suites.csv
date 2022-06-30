@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 09 14:09:01 CST 2022","Thu Jun 09 14:09:02 CST 2022","470","","test_pytest","Test_demo1","","","test_API[http://web.juhe.cn/finance/gold/shgold-{""key"":""f6e597601323c72a62bddaa05ce20d80""}-SUCCESSED!]",""
+"passed","Thu Jun 09 14:09:00 CST 2022","Thu Jun 09 14:09:01 CST 2022","659","","test_pytest","Test_demo1","","","test_API[https://way.jd.com/he/freeweather-{""appkey"":""7b95369de74f07e957c9fa01f235748f"",""city"":""北京""}-查询成功]",""
+"passed","Thu Jun 09 14:08:58 CST 2022","Thu Jun 09 14:09:00 CST 2022","2062","","test_pytest","Test_demo1","","","test_API[https://way.jd.com/he/freeweather-{""appkey"":""7b95369de74f07e957c9fa01f235748f"",""city"":""长沙""}-查询成功]",""

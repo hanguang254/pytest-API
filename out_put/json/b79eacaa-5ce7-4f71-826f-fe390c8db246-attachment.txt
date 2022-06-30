@@ -1,0 +1,7 @@
+INFO     root:test_pytest.py:22 --------------------pytest--------------------
+INFO     root:test_pytest.py:37 请求地址：https://way.jd.com/he/freeweather
+INFO     root:test_pytest.py:38 请求参数：{'appkey': '7b95369de74f07e957c9fa01f235748f', 'city': '长沙'}
+INFO     root:test_pytest.py:39 预期结果：查询成功
+INFO     root:test_pytest.py:40 --------------------正在获取请求--------------------
+INFO     root:test_pytest.py:52 -------------查询成功，响应时间：[1.770144]秒----------------
+INFO     root:test_pytest.py:53 ---------------------------------------分割线----------------------------------------
